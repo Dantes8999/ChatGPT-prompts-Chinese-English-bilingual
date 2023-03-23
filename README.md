@@ -29,7 +29,12 @@ ChatGPT目前仍以文字方式交互，而除了可以用人类自然对话方�
 
 该文档根据[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)内容整理、翻译而来
 以下是对文档内容的图片展示
-![文档展示](https://user-images.githubusercontent.com/73052671/227188592-2f2388eb-4797-4d91-bebb-13cac0584bf6.png)
+
+<div align=center>
+<img src="[https://user-images.githubusercontent.com/73052671/227186965-13642652-ac78-48b3-9f17-8bf09aa19d9e.png](https://user-images.githubusercontent.com/73052671/227188592-2f2388eb-4797-4d91-bebb-13cac0584bf6.png)" width="800"/> 
+  <p>合集文档内容展示</p>
+</div>
+
 该文档记录了当前ChatGPT可扮演的150+角色提示模板，
 您也可以从这个文件中获取创作灵感来创建您自己的提示，
 继续探索并随时联系我，一起为该合集提供新的扩充内容。
