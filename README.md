@@ -2,6 +2,10 @@
 
 ![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.ChatGPT-prompts-Chinese-English-bilingual)
 
+
+##仓库管理员及创建者 B站：深度学习陈树人 [Bilibili](https://space.bilibili.com/11461761?spm_id_from=333.1007.0.0)
+![0_0 (1)](https://user-images.githubusercontent.com/73052671/227186965-13642652-ac78-48b3-9f17-8bf09aa19d9e.png)
+
 ##ChatGPT介绍
 
 ChatGPT，全称聊天生成型预训练变换模型（英语：Chat Generative Pre-trained Transformer），是OpenAI开发的人工智能聊天机器人程序，于2022年11月推出。
@@ -13,8 +17,7 @@ ChatGPT目前仍以文字方式交互，而除了可以用人类自然对话方�
 
 ##提示模板的使用
 文字提示在提示工程（Prompt Engineering）中又因人工参与比重大被称为人工提示，
-目前ChatGPT可以在人工提示的基础上扮演各类角色，发挥各种功能，包括但不限于（扮演编译器，人类职业，算法工具等），
-![FireShot Capture 021 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227187438-e3530e32-8851-47fd-ac97-2625ee4a8de9.png)
+目前ChatGPT可以在人工提示的基础上扮演各类角色，发挥各种功能，包括但不限于（扮演编译器，人类职业，算法工具等）。
 在此仓库中，您会以最快速度获得目前最全面的双语人工提示模板。
 
 
@@ -28,18 +31,21 @@ ChatGPT目前仍以文字方式交互，而除了可以用人类自然对话方�
 继续探索并随时联系我，一起为该合集提供新的扩充内容。
 
 
-
-##仓库管理员及创建者 B站：深度学习陈树人 [Bilibili](https://space.bilibili.com/11461761?spm_id_from=333.1007.0.0)
-![0_0 (1)](https://user-images.githubusercontent.com/73052671/227186965-13642652-ac78-48b3-9f17-8bf09aa19d9e.png)
-
 ##ChatGPT擅长处理的61类，共计280个角色和行为
 目前发现并总结的一些ChatGPT功能内容（基于该合集，经ChatGPT总结而来）
+
 ###列表1
 ![FireShot Capture 024 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227190148-89056028-6bee-4b53-852c-aa54e8edc4d8.png)
+
+
 ###列表2
 ![FireShot Capture 025 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227190194-12df658f-4e91-482b-a069-99230c499ffd.png)
+
+
 ###列表3
 ![FireShot Capture 026 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227190214-279ef07c-d3c9-43f0-966b-e036069320f0.png)
+
+
 
 ##ChatGPT认为自己最能取代和最不能取代的各10个职业
 
