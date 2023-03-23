@@ -34,15 +34,11 @@ ChatGPT目前仍以文字方式交互，而除了可以用人类自然对话方�
 ## ChatGPT擅长处理的61类，共计280个角色和行为
 目前发现并总结的一些ChatGPT功能内容（基于该合集，经ChatGPT总结而来）
 
-### 列表1
+### 类别（范畴）| 职业（角色）名称
 ![FireShot Capture 024 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227190148-89056028-6bee-4b53-852c-aa54e8edc4d8.png)
 
-
-### 列表2
 ![FireShot Capture 025 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227190194-12df658f-4e91-482b-a069-99230c499ffd.png)
 
-
-### 列表3
 ![FireShot Capture 026 - Max Words_ 2048  - chat openai com](https://user-images.githubusercontent.com/73052671/227190214-279ef07c-d3c9-43f0-966b-e036069320f0.png)
 
 
