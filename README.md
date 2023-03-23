@@ -4,7 +4,11 @@
 
 
 ## 仓库管理员及创建者 B站：深度学习陈树人 [Bilibili](https://space.bilibili.com/11461761?spm_id_from=333.1007.0.0)
-![0_0 (1)](https://user-images.githubusercontent.com/73052671/227186965-13642652-ac78-48b3-9f17-8bf09aa19d9e.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/73052671/227186965-13642652-ac78-48b3-9f17-8bf09aa19d9e.png" width="400"/> 
+  <p>Midjourney绘制</p>
+</div>
 
 ## ChatGPT介绍
 
