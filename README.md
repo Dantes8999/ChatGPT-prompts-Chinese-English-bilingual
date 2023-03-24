@@ -1,4 +1,4 @@
-# ChatGPT中英文双语提示收录-持续拓展中 
+# ChatGPT中英文双语提示合集 
 
 ![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.ChatGPT-prompts-Chinese-English-bilingual)
 
